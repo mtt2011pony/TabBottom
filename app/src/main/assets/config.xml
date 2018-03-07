@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TabManager>
+        <Common  useCustomView="false" textSize="" paddingTop="" paddingBottom="" paddingTopBottom=""/>
+        <Tab name="产品推荐" icon="nav_normal_product_recommend" selectedIcon="nav_pressed_product_recommend" color="#F7F7F7" selectedColor="#F7F7F7"
+             textColor="#8D8A85" textSelectedColor="#AE9459" url="https://github.com/mtt2011pony/TabBottom"
+             tags=""/>
+        <Tab name="产品列表" icon="nav_normal_finance_list" selectedIcon="nav_pressed_finance_list" color="#F7F7F7" selectedColor="#F7F7F7"
+             textColor="#8D8A85" textSelectedColor="#AE9459" url="https://www.baidu.com/"
+             tags=""/>
+        <Tab name="投资排行" icon="nav_normal_ranking" selectedIcon="nav_pressed_ranking" color="#F7F7F7" selectedColor="#F7F7F7"
+             textColor="#8D8A85" textSelectedColor="#AE9459" url="https://www.sina.com"
+             tags="banner_first,banner_third"/>
+        <Tab name="我的账户" icon="nav_normal_mine" selectedIcon="nav_pressed_mine" color="#F7F7F7" selectedColor="#F7F7F7"
+             textColor="#8D8A85" textSelectedColor="#AE9459" url="https://blog.jobbole.com"
+             tags=""/>
+    </TabManager>
